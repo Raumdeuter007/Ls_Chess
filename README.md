@@ -12,12 +12,12 @@ If you do not have SFML linked to your project, follow the steps below to create
 
 1. Install the mingw64 folder of the repository in your C Drive.
 2. Search for "Edit environment variables ...." as shown below: <p></p>  
-![Step 2](Assets/step1.png)
+![Step 2](Assets/step1.PNG)
     Make sure that you access account variables and not system variables!
 <p></p>
 
 3. Upon clicking, the following window will open: <p></p>
-    ![Step 3](Assets/step2.png)
+    ![Step 3](Assets/step2.PNG)
     Click on the Path Variable and edit it.
     <p></p>
 
@@ -27,7 +27,7 @@ If you do not have SFML linked to your project, follow the steps below to create
     ```
     Like This:
 
-    ![Step 4](Assets/step3.png)
+    ![Step 4](Assets/step3.PNG)
 
 <p></p>
 Now the compiler will run successfully for your program.
